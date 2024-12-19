@@ -283,6 +283,7 @@ h1 {
 
 ```
 # OUTPUT:
-![alt text](<Screenshot 2024-12-17 225727.png>)
+![Screenshot 2024-12-19 102441](https://github.com/user-attachments/assets/9489c71e-7cf6-45fe-8d05-c9d2a5d7aaeb)
+
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
